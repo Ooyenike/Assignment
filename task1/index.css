@@ -1,0 +1,104 @@
+
+*{
+    box-sizing: border-box;
+ 
+}
+body{
+     margin: 0;
+    padding: 0;
+    background: black;
+    color: whitesmoke;
+}
+.container{
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+header{
+    padding-top: 30px;
+    min-height:30px ;
+    background: rgb(8, 0, 27);
+}
+header a{
+    color: whitesmoke;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+
+}
+header li{
+    float: left;
+    display: inline;
+    padding:0 10px 35px 20px ;
+}
+header h3{
+    float: left;
+    margin: 0;
+    font-size: 35px;
+    font-weight: bold;
+}
+header nav{
+    float: right;
+    margin-top: 10px;
+}
+header a:hover{
+    color: rgb(65, 57, 57);
+    font-weight: bold;
+}
+.intro{
+    text-align: left;
+    margin: 5%;
+    width: 30%;
+    font-size: 19px;
+}
+ img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    float: right;
+    margin-right: 25%;
+   
+} 
+.me {
+    text-align: center;
+    font-size: 20px;
+    width:100%;
+    margin: 3%;
+}
+.contact{
+    text-align: center;
+    font-size: 30px;
+    width:80%;
+    margin: 10%;
+}
+/* services */
+.skills{
+    text-align: center;
+    font-size: 20px;
+    width:80%;
+    margin: 10%;
+    
+}
+
+ul.services li{
+    list-style: none;
+    padding: 30px;
+    border: #cccccc solid 2px;
+    margin-bottom: 5px;
+    /* background:#0c0101; */
+}
+ul.services h3{
+    font-weight: 30px;
+    font-size: 30px;
+}
+footer{
+    padding: 10px;
+    margin-top: 20px;
+    background-color: rgb(8, 0, 27);
+    text-align: center;
+    font-size: 20px;
+}
