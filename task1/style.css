@@ -1,0 +1,86 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+  }
+  body{
+    background-color: hsl(0, 0%,  95%)
+  }
+  main{
+    width: 60%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+  }
+  .sedan{
+    background-color: hsl(31, 77%, 52%);
+    padding: 2em;
+     width: 100%;
+   
+}
+.suv{
+    background-color: hsl(184, 100%, 22%);
+    padding: 2em;
+     width: 100%;
+     
+
+}
+.luxury{
+    background-color: hsl(179, 100%, 13%);
+    padding: 2em;
+     width: 100%;
+     
+}
+h1{
+    color: hsl(0, 0%,  95%);
+    padding: 15px;
+    font-family: 'Big Shoulders Display', cursive;
+}
+img{
+    padding: 10px;
+
+}
+p{
+    color: hsla(0,0%,100%,0.75);
+    padding: 15px;
+    font-size: 15px;
+    font-family: lexend deca, sans-serif;
+}
+.sedans{
+    padding: 13px ;
+    color: hsl(31, 77%, 52%);
+    border:none;
+    border-radius: 20px;
+    margin: 15px;
+    width: 130px;
+    border-bottom: 20px;
+
+}
+.Suvs{
+    padding: 13px;
+    color: hsl(184, 100%, 22%);
+    border:none;
+    border-radius: 20px;
+    margin: 15px;
+    width: 130px;
+    border-bottom: 20px;
+
+}
+.lux{
+    padding: 13px;
+    color: hsl(179, 100%, 13%);
+    border:none;
+    border-radius: 20px;
+    margin: 15px;
+    width: 130px;
+    border-bottom: 20px;
+}
+@media screen and (max-width: 1440px) and (min-width) {
+    main{
+        width: 60%;
+    }
+    
+}
