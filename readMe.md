@@ -1,11 +1,10 @@
 
-# week 5 task
+# Hi there!
 
-week 5 task by Owolabi Oyenike
+I am Owolabi Oyenike by name
 
 ## 🚀 About Me
-I'm a full stack developer, i am part of the successful paricipant of zuri trainning.
-
+I am a full stack developer(in view), I am part of the successful shortlisted participant in ZURI training where i am learning fullstack development
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
